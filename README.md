@@ -9,15 +9,15 @@ Soal : Ganjil
 
 
 
-pertama ada Dictionary yang berguna untuk membuat variabel buku seperti judul, buku , penulis sama tahun terbit,
-saya juga menggunakan while true agar memudahkan untuk memilih menu dan melakukan perulangan tak terbatas sampai pengguna memilih keluar
-, saya menggunakan keys (penerbit) karna kita bisa  tahu di kolom data ada apa saja di dalam dictionary tanpa perlu melihat isinya.
-saya juga menggunakan value untuk mengambil daftar semua nilainya saja dari dictionary dan menampung berbagai jenis data
-,terus saya menggunakan add penerbit biar pengguna bisa tahu bahwa data penerbit berhasil di tambahkan,
-setelah itu buku.update agar dapat memperbarui isi data dictionary sekaligus,
-saya juga menggunakan delete update atau buku.pop agar program tidak eror jika di kombinasikan dengan pengecekan selain itu bisa menghapus satu pasang data di dictionary dan 
-break untuk menghentikan program
-else untuk menangani jika pengguna memilih selain angka 1 sampai 5
+pertama ada Dictionary yang berguna untuk membuat variabel buku seperti judul, buku , penulis sama tahun terbit.,
+saya juga menggunakan while true agar memudahkan untuk memilih menu dan melakukan perulangan tak terbatas sampai pengguna memilih keluar.,
+saya menggunakan keys (penerbit) karna kita bisa  tahu di kolom data ada apa saja di dalam dictionary tanpa perlu melihat isinya.,
+saya juga menggunakan value untuk mengambil daftar semua nilainya saja dari dictionary dan menampung berbagai jenis data.,
+terus saya menggunakan add penerbit biar pengguna bisa tahu bahwa data penerbit berhasil di tambahkan.,
+setelah itu buku.update agar dapat memperbarui isi data dictionary sekaligus.,
+saya juga menggunakan delete update atau buku.pop agar program tidak eror jika di kombinasikan dengan pengecekan selain itu bisa menghapus satu pasang data di dictionary.,
+dan  break untuk menghentikan program.,
+else untuk menangani jika pengguna memilih selain angka 1 sampai 5.
 
 
 <img width="791" height="180" alt="Screenshot 2026-09-15 190715" src="https://github.com/user-attachments/assets/130f1c01-a48e-457a-b001-b901f8df79eb" />
